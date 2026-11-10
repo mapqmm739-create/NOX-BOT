@@ -8,7 +8,7 @@ global.botNumber = ""
 
 // خليته يقدر يدعم رقم و lid في نفس الوقت
 global.owner = [
-["963949597160", "© ＷＩＬＬＩＡＭ", true, "219984634589433@lid"],
+["967718061225", "© ＷＩＬＬＩＡＭ", true, "219984634589433@lid"],
     
 ["", "© SHANKS", true, "129673887498432@lid"],
     
@@ -18,18 +18,18 @@ global.owner = [
 
 
 global.mods = []
-global.suittag = ["96394*****"] // حط رقمك
+global.suittag = ["967718061225"] // حط رقمك
 global.prems = []
 
 
 global.libreria = "Baileys Multi Device"
 global.vs = "^1.3.2"
-global.nameqr = "𝑸𝑹"
+global.nameqr = "code"
 global.sessions = "Sessions/Principal"
 global.jadi = "Sessions/SubBot"
 global.MichiJadibts = true
 
-global.botname = "◜Ｎｏｘ┊🌓┊Ｂｏｔ◞"
+global.botname = "◜MHSN505◞"
 global.textbot = "Ｎｏｘ Ｂｏｔ"
 global.dev = "© 𝚆𝙸𝙻𝙻𝙸𝙰𝙼 𝚇 𝚂𝙷𝙰𝙽𝙺𝚂"
 global.author = "© mᥲძᥱ ᑲᥡ 𝚆𝙸𝙻𝙻𝙸𝙰𝙼 𝚇 𝚂𝙷𝙰𝙽𝙺𝚂"
